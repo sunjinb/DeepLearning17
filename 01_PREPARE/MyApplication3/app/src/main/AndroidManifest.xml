@@ -9,10 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication.NoActionBar">
-        <activity android:name=".CallActivity"
+        <activity android:name=".TextActivity"
+            android:label="텍스트"
+            android:theme="@style/Theme.MyApplication.NoActionBar"/>
+        <activity android:name=".MenuActivity"
+            android:label="메뉴"
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
+        <activity
+            android:name=".CallActivity"
             android:label="전화"
-            android:theme="@style/Theme.MyApplication.NoActionBar">
-        </activity>
+            android:theme="@style/Theme.MyApplication.NoActionBar" />
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,6 +27,5 @@
             </intent-filter>
         </activity>
     </application>
-
 
 </manifest>
