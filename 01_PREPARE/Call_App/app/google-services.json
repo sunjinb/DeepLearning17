@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523442259396",
+    "project_id": "call-project-d7add",
+    "storage_bucket": "call-project-d7add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523442259396:android:4f42b3d0440f23ae43d091",
+        "android_client_info": {
+          "package_name": "org.techtown.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523442259396-hvbjeuf84gagv3hc2co7p9crkl8tlq5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGRW3nH2dv8rxGCNISLBMVkBbtnzi1AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523442259396-hvbjeuf84gagv3hc2co7p9crkl8tlq5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
