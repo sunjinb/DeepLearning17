@@ -1,7 +1,0 @@
-org/techtown/myapplication/LoginActivity.java
- org.techtown.myapplication.LoginActivity
- org.techtown.myapplication.LoginActivity$1
-org/techtown/myapplication/BuildConfig.java
- org.techtown.myapplication.BuildConfig
-org/techtown/myapplication/CallActivity.java
- org.techtown.myapplication.CallActivity
