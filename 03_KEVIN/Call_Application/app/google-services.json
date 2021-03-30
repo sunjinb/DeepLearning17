@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593010662024",
+    "project_id": "callapp-93199",
+    "storage_bucket": "callapp-93199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593010662024:android:01b9744ead5eaf3c725d3d",
+        "android_client_info": {
+          "package_name": "com.example.call_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593010662024-rlvdc5mciefeiqpjt6tl5va2hoqrkcqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3tVNEQ3ryExp-vIyB3NkdDXexjupw7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593010662024-rlvdc5mciefeiqpjt6tl5va2hoqrkcqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
