@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481888864760",
+    "project_id": "real-call-server",
+    "storage_bucket": "real-call-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481888864760:android:748602dd09b52ba342ae0d",
+        "android_client_info": {
+          "package_name": "com.example.newcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481888864760-i3d990od8bo6d40o6umqgilb3urdkdd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0i5vUysGuvE3EN75qF0_dXeqdUqxTfZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481888864760-i3d990od8bo6d40o6umqgilb3urdkdd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
